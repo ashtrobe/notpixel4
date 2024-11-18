@@ -5,6 +5,7 @@
 **AIRDROP** : NOT PIXEL (OFFICIAL BY PAVEL DUROV)
 
 NOT PIXEL Mining By Pavel Durov
+
 🏷 Reward : PX Tokens
 
 ➡️ Register : [Register](https://t.me/notpixel/app?startapp=f6896240442_s575297)
