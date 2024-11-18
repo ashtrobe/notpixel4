@@ -1,1 +1,175 @@
-const _0x5ccc6f=_0x53b7;function _0x4d02(){const _0x1e8865=['mining','box','subTitle','hide','currentTabIndex','charges','forEach','{blue-fg}{bold}\x20Account\x20','indexOf','tabs','setContent','title','userBalance','render','164jpRafQ','append','{center}','#f0f0f0','length','screen','\x20-\x20','left','1616sLKCLy','center','key','clearInfo','info','155177eqKaay','8785630OcxvWu','switchTab','name','40mwShtF','split','Welcome\x20&\x20Enjoy\x20Sir!','57303GJOJtR','100%','Nofan\x20Rambe','exit','titleBox','accounts','22UpmDZA','225102efOsAI','\x0a{center}Info:\x20','128127qyYczt','hintBox','shrink','{/center}','115SJXMKw','renderTabList','show','{center}Use\x20\x27->\x27(arrow\x20right)\x20and\x20\x27<-\x27(arrow\x20left)\x20to\x20switch\x20between\x20tabs{/center}','32847972GItyPt','isSwitchingTab','\x20{/bold}{/blue-fg}\x20','Account\x20','createAccountTab','getSession','C-c','infoBox','{/center}\x0a','1177693EctmXY','push','\x20Account\x20','tabList','white','39jUmMKO','right','log','{center}NOTPIXEL\x20BOT{/center}\x0a\x20\x20\x20\x20By:\x20Nofan\x20Rambe'];_0x4d02=function(){return _0x1e8865;};return _0x4d02();}(function(_0x5a5e65,_0x322447){const _0x955b2d=_0x53b7,_0x390bde=_0x5a5e65();while(!![]){try{const _0x45bd58=parseInt(_0x955b2d(0x10c))/0x1*(-parseInt(_0x955b2d(0x119))/0x2)+-parseInt(_0x955b2d(0x11c))/0x3*(parseInt(_0x955b2d(0xff))/0x4)+-parseInt(_0x955b2d(0x120))/0x5*(parseInt(_0x955b2d(0x11a))/0x6)+-parseInt(_0x955b2d(0x10d))/0x7+parseInt(_0x955b2d(0x107))/0x8*(-parseInt(_0x955b2d(0x113))/0x9)+parseInt(_0x955b2d(0x110))/0xa*(-parseInt(_0x955b2d(0xe8))/0xb)+-parseInt(_0x955b2d(0xdf))/0xc*(-parseInt(_0x955b2d(0xed))/0xd);if(_0x45bd58===_0x322447)break;else _0x390bde['push'](_0x390bde['shift']());}catch(_0x2836d1){_0x390bde['push'](_0x390bde['shift']());}}}(_0x4d02,0xe100a));import _0x7d2fb from'blessed';import _0x404c81 from'./logger.js';function _0x53b7(_0x4cd22f,_0x41d35e){const _0x4d021c=_0x4d02();return _0x53b7=function(_0x53b740,_0x3e8292){_0x53b740=_0x53b740-0xdc;let _0x2f02df=_0x4d021c[_0x53b740];return _0x2f02df;},_0x53b7(_0x4cd22f,_0x41d35e);}import{Helper}from'./helper.js';export class Bless{constructor(){const _0xa07f96=_0x53b7;this[_0xa07f96(0x104)]=_0x7d2fb[_0xa07f96(0x104)]({'fastCSR':!![]}),this[_0xa07f96(0x104)][_0xa07f96(0xfc)]=_0xa07f96(0x115),this['titleBox']=_0x7d2fb[_0xa07f96(0xf2)]({'top':0x0,'left':_0xa07f96(0x108),'width':_0xa07f96(0x11e),'height':0x2,'tags':!![],'content':_0xa07f96(0xf0),'style':{'fg':'white','bold':!![]}}),this[_0xa07f96(0x104)]['append'](this[_0xa07f96(0x117)]),this[_0xa07f96(0xf3)]=_0x7d2fb['box']({'top':0x1,'left':_0xa07f96(0x108),'width':_0xa07f96(0x11e),'height':0x2,'tags':!![],'content':_0xa07f96(0x112),'style':{'fg':_0xa07f96(0xec),'bold':!![]}}),this[_0xa07f96(0x104)]['append'](this[_0xa07f96(0xf3)]),this[_0xa07f96(0xeb)]=_0x7d2fb[_0xa07f96(0xf2)]({'top':0x5,'left':'center','width':'100%','height':0x3,'tags':!![],'style':{'fg':_0xa07f96(0xec)}}),this[_0xa07f96(0x104)][_0xa07f96(0x100)](this[_0xa07f96(0xeb)]),this[_0xa07f96(0x11d)]=_0x7d2fb[_0xa07f96(0xf2)]({'bottom':0x0,'left':'center','width':_0xa07f96(0x114),'height':0x3,'tags':!![],'content':_0xa07f96(0xde),'style':{'fg':'white'}}),this[_0xa07f96(0x104)]['append'](this[_0xa07f96(0x11d)]),this[_0xa07f96(0xe6)]=_0x7d2fb[_0xa07f96(0xf2)]({'bottom':0x3,'left':_0xa07f96(0x108),'width':_0xa07f96(0x114),'height':0x3,'tags':!![],'content':'','style':{'fg':_0xa07f96(0xec)}}),this['screen'][_0xa07f96(0x100)](this['infoBox']),this['tabs']=[],this['currentTabIndex']=0x0,this[_0xa07f96(0xe0)]=![],Helper[_0xa07f96(0xe4)](_0xa07f96(0x118))[_0xa07f96(0xf7)]((_0x84ac16,_0x51a39d)=>{const _0x31a3aa=_0xa07f96,_0x3cda39=this[_0x31a3aa(0xe3)](_0x31a3aa(0xe2)+(_0x51a39d+0x1));this[_0x31a3aa(0xfa)][_0x31a3aa(0xe9)](_0x3cda39),this[_0x31a3aa(0x104)][_0x31a3aa(0x100)](_0x3cda39),_0x3cda39[_0x31a3aa(0xf4)]();}),this[_0xa07f96(0xfa)]['length']>0x0&&this['tabs'][0x0][_0xa07f96(0xdd)](),this['renderTabList'](),this[_0xa07f96(0x104)]['key'](['q',_0xa07f96(0xe5)],()=>{const _0xc37e35=_0xa07f96;return process[_0xc37e35(0x116)](0x0);}),this[_0xa07f96(0x104)][_0xa07f96(0x109)](['left','right'],(_0x3843c8,_0x399592)=>{const _0xeebc94=_0xa07f96;if(this[_0xeebc94(0xe0)])return;_0x399592[_0xeebc94(0x10f)]===_0xeebc94(0xee)?this[_0xeebc94(0x10e)]((this[_0xeebc94(0xf5)]+0x1)%this['tabs'][_0xeebc94(0x103)]):_0x399592[_0xeebc94(0x10f)]===_0xeebc94(0x106)&&this[_0xeebc94(0x10e)]((this[_0xeebc94(0xf5)]-0x1+this[_0xeebc94(0xfa)]['length'])%this[_0xeebc94(0xfa)]['length']);}),this[_0xa07f96(0x104)]['render']();}[_0x5ccc6f(0xe3)](_0xd10cf2){const _0x41df29=_0x5ccc6f;return _0x7d2fb['box']({'label':_0xd10cf2,'top':0x6,'left':0x0,'width':_0x41df29(0x114),'height':_0x41df29(0x11e),'border':{'type':'line'},'style':{'fg':_0x41df29(0xec),'border':{'fg':_0x41df29(0x102)}},'tags':!![]});}['renderTabList'](){const _0x1119a4=_0x5ccc6f;let _0x395a71='';Helper[_0x1119a4(0xe4)](_0x1119a4(0x118))[_0x1119a4(0xf7)]((_0xa8db84,_0xb3740d)=>{const _0xa67c11=_0x1119a4;_0xb3740d===this[_0xa67c11(0xf5)]?_0x395a71+=_0xa67c11(0xf8)+(_0xb3740d+0x1)+_0xa67c11(0xe1):_0x395a71+=_0xa67c11(0xea)+(_0xb3740d+0x1)+'\x20';}),this[_0x1119a4(0xeb)][_0x1119a4(0xfb)](_0x1119a4(0x101)+_0x395a71+_0x1119a4(0x11f)),this[_0x1119a4(0x104)][_0x1119a4(0xfe)]();}[_0x5ccc6f(0x10e)](_0xd4e293){const _0x273645=_0x5ccc6f;if(_0xd4e293<0x0||_0xd4e293>=this[_0x273645(0xfa)][_0x273645(0x103)])return;this[_0x273645(0xe0)]=!![],this['tabs'][this[_0x273645(0xf5)]][_0x273645(0xf4)](),this[_0x273645(0xf5)]=_0xd4e293,this['tabs'][this[_0x273645(0xf5)]][_0x273645(0xdd)](),this[_0x273645(0xdc)](),setTimeout(()=>{const _0x2bf382=_0x273645;this[_0x2bf382(0xe0)]=![];},0xc8),this[_0x273645(0x104)][_0x273645(0xfe)]();}async[_0x5ccc6f(0xef)](_0x25adad='',_0x770b20='',_0x292dbd=new Core(),_0x58b14b){const _0x34c602=_0x5ccc6f,_0x26f13e=Helper['getSession'](_0x34c602(0x118)),_0x3a76b6=_0x26f13e[_0x34c602(0xf9)](_0x770b20[_0x34c602(0x118)][_0x34c602(0x111)]('/')[0x1]);_0x58b14b===undefined&&(_0x404c81[_0x34c602(0x10b)](_0x34c602(0xe2)+(_0x3a76b6+0x1)+_0x34c602(0x105)+_0x25adad),_0x58b14b='-');let _0xff0f1b;const _0x3a75ac=_0x292dbd[_0x34c602(0xf1)]??{},_0x348160=_0x3a75ac[_0x34c602(0xfd)]??'-',_0x172e57=_0x3a75ac[_0x34c602(0xf6)]??'-';let _0x4a9667={'msg':_0x25adad,'delay':_0x58b14b,'acc':_0x770b20,'balance':_0x348160,'charge':_0x172e57};_0xff0f1b=''+Helper['spinnerContent'](_0x4a9667),this[_0x34c602(0xfa)][_0x3a76b6][_0x34c602(0xfb)](_0xff0f1b),this['screen'][_0x34c602(0xfe)]();}[_0x5ccc6f(0x10b)](_0xcb1079=''){const _0x8aa487=_0x5ccc6f,_0x4cb4f2=_0x8aa487(0x11b)+_0xcb1079+_0x8aa487(0xe7);this[_0x8aa487(0xe6)][_0x8aa487(0xfb)](_0x4cb4f2),this[_0x8aa487(0x104)][_0x8aa487(0xfe)]();}[_0x5ccc6f(0x10a)](){const _0x4e89ec=_0x5ccc6f;this[_0x4e89ec(0xe6)][_0x4e89ec(0xfb)](''),this[_0x4e89ec(0x104)]['render']();}}
+import _0x7d2fb from 'blessed';
+import _0x404c81 from './logger.js';
+import { Helper } from './helper.js';
+export class Bless {
+  constructor() {
+    this.screen = _0x7d2fb.screen({
+      'fastCSR': true
+    });
+    this.screen.title = "Nofan Rambe";
+    this.titleBox = _0x7d2fb.box({
+      'top': 0x0,
+      'left': "center",
+      'width': "shrink",
+      'height': 0x2,
+      'tags': true,
+      'content': "{center}NOTPIXEL BOT",
+      'style': {
+        'fg': 'white',
+        'bold': true
+      }
+    });
+    this.screen.append(this.titleBox);
+    this.subTitle = _0x7d2fb.box({
+      'top': 0x1,
+      'left': "center",
+      'width': "shrink",
+      'height': 0x2,
+      'tags': true,
+      'content': "Author : Nofan Rambe",
+      'style': {
+        'fg': "white",
+        'bold': true
+      }
+    });
+    this.screen.append(this.subTitle);
+    this.tabList = _0x7d2fb.box({
+      'top': 0x5,
+      'left': 'center',
+      'width': '100%',
+      'height': 0x3,
+      'tags': true,
+      'style': {
+        'fg': "white"
+      }
+    });
+    this.screen.append(this.tabList);
+    this.hintBox = _0x7d2fb.box({
+      'bottom': 0x0,
+      'left': 'center',
+      'width': "100%",
+      'height': 0x3,
+      'tags': true,
+      'content': "{center}Use '->'(arrow right) and '<-'(arrow left) to switch between tabs{/center}",
+      'style': {
+        'fg': 'white'
+      }
+    });
+    this.screen.append(this.hintBox);
+    this.infoBox = _0x7d2fb.box({
+      'bottom': 0x3,
+      'left': "center",
+      'width': "100%",
+      'height': 0x3,
+      'tags': true,
+      'content': '',
+      'style': {
+        'fg': "white"
+      }
+    });
+    this.screen.append(this.infoBox);
+    this.tabs = [];
+    this.currentTabIndex = 0x0;
+    this.isSwitchingTab = false;
+    Helper.getSession("accounts").forEach((_0x84ac16, _0x51a39d) => {
+      const _0x3cda39 = this.createAccountTab("Account " + (_0x51a39d + 0x1));
+      this.tabs.push(_0x3cda39);
+      this.screen.append(_0x3cda39);
+      _0x3cda39.hide();
+    });
+    if (this.tabs.length > 0x0) {
+      this.tabs[0x0].show();
+    }
+    this.renderTabList();
+    this.screen.key(['q', "C-c"], () => {
+      return process.exit(0x0);
+    });
+    this.screen.key(['left', 'right'], (_0x3843c8, _0x399592) => {
+      if (this.isSwitchingTab) {
+        return;
+      }
+      if (_0x399592.name === "right") {
+        this.switchTab((this.currentTabIndex + 0x1) % this.tabs.length);
+      } else if (_0x399592.name === "left") {
+        this.switchTab((this.currentTabIndex - 0x1 + this.tabs.length) % this.tabs.length);
+      }
+    });
+    this.screen.render();
+  }
+  ["createAccountTab"](_0xd10cf2) {
+    return _0x7d2fb.box({
+      'label': _0xd10cf2,
+      'top': 0x6,
+      'left': 0x0,
+      'width': "100%",
+      'height': "shrink",
+      'border': {
+        'type': 'line'
+      },
+      'style': {
+        'fg': "white",
+        'border': {
+          'fg': "#f0f0f0"
+        }
+      },
+      'tags': true
+    });
+  }
+  ['renderTabList']() {
+    let _0x395a71 = '';
+    Helper.getSession("accounts").forEach((_0xa8db84, _0xb3740d) => {
+      if (_0xb3740d === this.currentTabIndex) {
+        _0x395a71 += "{blue-fg}{bold} Account " + (_0xb3740d + 0x1) + " {/bold}{/blue-fg} ";
+      } else {
+        _0x395a71 += " Account " + (_0xb3740d + 0x1) + " ";
+      }
+    });
+    this.tabList.setContent("{center}" + _0x395a71 + "{/center}");
+    this.screen.render();
+  }
+  ["switchTab"](_0xd4e293) {
+    if (_0xd4e293 < 0x0 || _0xd4e293 >= this.tabs.length) {
+      return;
+    }
+    this.isSwitchingTab = true;
+    this.tabs[this.currentTabIndex].hide();
+    this.currentTabIndex = _0xd4e293;
+    this.tabs[this.currentTabIndex].show();
+    this.renderTabList();
+    setTimeout(() => {
+      this.isSwitchingTab = false;
+    }, 0xc8);
+    this.screen.render();
+  }
+  async ["log"](_0x25adad = '', _0x770b20 = '', _0x292dbd = new Core(), _0x58b14b) {
+    const _0x26f13e = Helper.getSession("accounts");
+    const _0x3a76b6 = _0x26f13e.indexOf(_0x770b20.accounts.split('/')[0x1]);
+    if (_0x58b14b === undefined) {
+      _0x404c81.info("Account " + (_0x3a76b6 + 0x1) + " - " + _0x25adad);
+      _0x58b14b = '-';
+    }
+    let _0xff0f1b;
+    const _0x3a75ac = _0x292dbd.mining ?? {};
+    const _0x348160 = _0x3a75ac.userBalance ?? '-';
+    const _0x172e57 = _0x3a75ac.charges ?? '-';
+    let _0x4a9667 = {
+      'msg': _0x25adad,
+      'delay': _0x58b14b,
+      'acc': _0x770b20,
+      'balance': _0x348160,
+      'charge': _0x172e57
+    };
+    _0xff0f1b = '' + Helper.spinnerContent(_0x4a9667);
+    this.tabs[_0x3a76b6].setContent(_0xff0f1b);
+    this.screen.render();
+  }
+  ["info"](_0xcb1079 = '') {
+    const _0x4cb4f2 = "\n{center}Info: " + _0xcb1079 + "{/center}\n";
+    this.infoBox.setContent(_0x4cb4f2);
+    this.screen.render();
+  }
+  ["clearInfo"]() {
+    this.infoBox.setContent('');
+    this.screen.render();
+  }
+}
