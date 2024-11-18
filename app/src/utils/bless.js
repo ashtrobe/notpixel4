@@ -13,7 +13,7 @@ export class Bless {
       'width': "shrink",
       'height': 0x2,
       'tags': true,
-      'content': "{center}NOTPIXEL BOT",
+      'content': "{center}NOTPIXEL BOT{/center}",
       'style': {
         'fg': 'white',
         'bold': true
@@ -26,7 +26,7 @@ export class Bless {
       'width': "shrink",
       'height': 0x2,
       'tags': true,
-      'content': "Author : Nofan Rambe",
+      'content': "By: Nofan Rambe",
       'style': {
         'fg': "white",
         'bold': true
