@@ -14,6 +14,7 @@ Color pixels and watch your Not PX balance grow.
 Just draw on the canvas and clear some task
 
 Zoom > Find White Color > Draw With Multicolor > Done
+
 📌 Use 1.1.1.1 (Cloudflare DNS) if you can't open the game
 
 ## PREREQUISITE
