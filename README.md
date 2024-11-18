@@ -31,7 +31,7 @@ Zoom > Find White Color > Draw With Multicolor > Done
 - Auto Draw in Pixel
 - Auto Complete Some Missions
 - Auto Claim Mining
-- Auto Upgrade Boost (reChargeSpeed,energyLimit,paintReward)
+- Auto Upgrade Boost (reChargeSpeed, energyLimit, paintReward)
 
 ## SETUP & CONFIGURE BOT
 
@@ -78,7 +78,7 @@ Zoom > Find White Color > Draw With Multicolor > Done
    ```
    and cd to project dir
    ```
-   cd not-pixel-bot
+   cd notpixel-bot
    ```
 
 3. Install Dependencies and Setup Bot
@@ -101,9 +101,9 @@ Zoom > Find White Color > Draw With Multicolor > Done
     npm run start
     ```
 
-10. If Any error happen contains config or proxy, Copy `config` folder to `app` folder
+11. If Any error happen contains config or proxy, Copy `config` folder to `app` folder
 
-11. Finally run with
+12. Finally run with
     ```
     node app/index.js
     ```
