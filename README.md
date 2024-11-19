@@ -6,8 +6,6 @@ NOT PIXEL Mining By Pavel Durov
 
 🏷 Reward : PX Tokens
 
-➡️ Register : [Register](https://t.me/notpixel/app?startapp=f6896240442_s575297)
-
 Color pixels and watch your Not PX balance grow.
 Just draw on the canvas and clear some task
 
@@ -20,7 +18,6 @@ Zoom > Find White Color > Draw With Multicolor > Done
 - Git
 - Node JS
 - Telegram APP_ID & Telegram APP_HASH
-- Not Pixel Register [Here](https://t.me/notpixel/app?startapp=f6896240442_s575297) Regist and atleast do something in game
 
 ## BOT FEATURE
 
@@ -33,33 +30,38 @@ Zoom > Find White Color > Draw With Multicolor > Done
 
 ## SETUP & CONFIGURE BOT
 
-### LINUX & MAC OS
+### Termux
 
-1. Clone project repository
+1. Clone project repository and enter script folder
    ```
    git clone https://github.com/Rambeboy/notpixel-bot.git && cd notpixel-bot
    ```
-2. Install Dependencies and Setup Bot
+2. Run this Command Before Installing Dependencies
+```
+mkdir ~/.gyp && echo "{'variables':{'android_ndk_path':''}}" > ~/.gyp/include.gypi
+```
+3. Install Dependencies and Setup Bot
    ```
    npm install && npm i telegram@2.22.2 && npm run setup
    ```
 
-3. Make new accounts folder
+4. Make new accounts folder
    ```
    mkdir -p accounts
    ```
 
-4. (If You Use Telegram Sessions) To configure the app, run
+5. (If You Use Telegram Sessions) To configure the app, run
    ```
    nano config/config.js
    ```
    and add your telegram app id and hash there.
 
-5. (If You Use Proxy) To configure the app, run
+6. (If You Use Proxy) To configure the app, run
    ```
    nano config/proxy_list.js
    ```
-   and add your proxy listh there.
+[**GET PROXIES FROM HERE**](https://proxy-sale.com/?partner_link=7w04Ij8gwl)
+   and add your proxy list there.
 
 6. To start the app run
    ```
