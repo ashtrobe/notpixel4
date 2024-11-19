@@ -34,7 +34,7 @@ Zoom > Find White Color > Draw With Multicolor > Done
 
 1. Clone project repository and enter script folder
    ```
-   git clone https://github.com/Rambeboy/notpixel-bot.git && cd notpixel-bot
+   git clone https://github.com/Rambeboy/notpixel4.git && cd notpixel4
    ```
 2. Run this Command Before Installing Dependencies
 ```
