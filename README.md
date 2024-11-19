@@ -83,10 +83,16 @@ mkdir ~/.gyp && echo "{'variables':{'android_ndk_path':''}}" > ~/.gyp/include.gy
 
 3. Install Dependencies and Setup Bot
    ```
-   npm instal && npm i telegram@2.22.2 && npm run setup
+   npm instal
+   ```
+   ```
+   npm i telegram@2.22.2
+   ```
+   ```
+   npm run setup
    ```
 
-4. Navigate to `notpixel-bot` directory.
+4. Navigate to `notpixel4` directory.
 
 5. Make new folder named `accounts`.
 
@@ -94,7 +100,7 @@ mkdir ~/.gyp && echo "{'variables':{'android_ndk_path':''}}" > ~/.gyp/include.gy
 
 7. Now Open and configure `config.js`.
 
-8. Now back to the `notpixel-bot` folder
+8. Now back to the `notpixel4` folder
 
 9. To start the app open your `Command Prompt` or `Power Shell` again and run
     ```
