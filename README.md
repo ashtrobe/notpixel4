@@ -33,20 +33,20 @@ Zoom > Find White Color > Draw With Multicolor > Done
 ### Termux
 
 **Make sure you have Nodejs, git, nano installed**
-```
-pkg install nodejs-lts
-pkg install git
-pkg install nano
-```
+   ```
+   pkg install nodejs-lts
+   pkg install git
+   pkg install nano
+   ```
 
 1. Clone project repository and enter script folder
    ```
    git clone https://github.com/Rambeboy/notpixel4.git && cd notpixel4
    ```
 2. Run this Command Before Installing Dependencies
-```
-mkdir ~/.gyp && echo "{'variables':{'android_ndk_path':''}}" > ~/.gyp/include.gypi
-```
+   ```
+   mkdir ~/.gyp && echo "{'variables':{'android_ndk_path':''}}" > ~/.gyp/include.gypi
+   ```
 3. Install Dependencies and Setup Bot
    ```
    npm install && npm i telegram@2.22.2 && npm run setup
