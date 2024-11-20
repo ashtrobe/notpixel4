@@ -30,7 +30,7 @@ Zoom > Find White Color > Draw With Multicolor > Done
 
 ## SETUP & CONFIGURE BOT
 
-### Termux
+## Termux
 
 **Make sure you have Nodejs, git, nano installed**
    ```
