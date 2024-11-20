@@ -15,7 +15,6 @@ Zoom > Find White Color > Draw With Multicolor > Done
 
 ## PREREQUISITE
 
-- Git
 - Node JS
 - Telegram APP_ID & Telegram APP_HASH
 
