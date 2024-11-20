@@ -32,6 +32,13 @@ Zoom > Find White Color > Draw With Multicolor > Done
 
 ### Termux
 
+**Make sure you have Nodejs, git, nano installed**
+```
+pkg install nodejs-lts
+pkg install git
+pkg install nano
+```
+
 1. Clone project repository and enter script folder
    ```
    git clone https://github.com/Rambeboy/notpixel4.git && cd notpixel4
